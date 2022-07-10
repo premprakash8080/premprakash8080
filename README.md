@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on Php Projects
 
 - 👯 I’m looking to collaborate on Php, React and Node.js  Projects
-- 💬 Ask me about Programming or Machine Learning
+- 💬 Ask me about Programming
 
 
 <p>Connect with me on
